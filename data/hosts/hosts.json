@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Matt Milhoan",
+    "image": "/matt_milhoan.jpg",
+    "description": "NEO Gatherings"
+  },
+  {
+    "name": "Justin Carney",
+    "image": "/justin_carney.jpg",
+    "description": "Battle of Fury"
+  },
+  {
+    "name": "Tricia Guarney",
+    "image": "/tricia_guarney.jpg",
+    "description": "Euphoria"
+  },
+  {
+    "name": "Mike Hom",
+    "image": "/mike_hom.jpg",
+    "description": "Vertigo"
+  },
+  {
+    "name": "Mark Rusmantijo",
+    "image": "/mark_rusmantijo.jpg",
+    "description": "Loopkicks"
+  },
+  {
+    "name": "Neil Touissant",
+    "image": "/neil_touissant.jpg",
+    "description": "TrickStrong"
+  },
+  {
+    "name": "Adam Devenport",
+    "image": "/adam_devenport.jpg",
+    "description": "Shapes"
+  }
+]
